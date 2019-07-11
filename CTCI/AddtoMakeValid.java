@@ -1,4 +1,3 @@
-package CTCI;
 import java.util.Stack;
 
 class Solution1 {
